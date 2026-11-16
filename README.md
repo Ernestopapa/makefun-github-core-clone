@@ -1,4 +1,4 @@
-# Forge Git Forge
+# Git Forge
 
 A GitHub-compatible git forge implemented in TypeScript (Node 22).
 
